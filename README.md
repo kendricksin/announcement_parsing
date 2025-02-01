@@ -1,6 +1,6 @@
 # Parsing Gov Procurement Announcements
 ### 1. Problem Space: 
-Thai Gov Procurement announcements are made in PDFs and are hard to read for illiterate or non-thai speakers
+Thai Gov Procurement announcements (http://www.gprocurement.go.th/new_index.html) are made in PDFs and are hard to read for illiterate or non-thai speakers
 ### 2. Solution: 
 Using Alibaba Qwen-turbo lightweight model we scan PDF texts and return key information
 
